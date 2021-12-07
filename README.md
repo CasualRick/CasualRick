@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @CasualRick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include<iostream>
+#include<conio.h>
+#include<dos.h>
+#include <windowns.h>
+#include <time.h>
 
-<!---
-CasualRick/CasualRick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#define SCREEN_WIDTH 90
+#define SCREEN_HEIGHT 26
+#define WIN_WIDTH 70
+
+using namespace std;
+
+HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE)
+COORD Cursor Position;
+its me lololololololooolo
+  THAT GUY
+  
